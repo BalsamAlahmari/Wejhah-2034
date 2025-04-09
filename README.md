@@ -1,39 +1,29 @@
-# Wejhah-2034
-Wejhah - وجهة
+Perfect! Here's a polished version of your `README.md` content for GitHub, with a clean structure, general explanation, and **clear emphasis** on the ZIP files note:
 
-هو تطبيق ذكي يهدف إلى تحسين تجربة المشجعين داخل الملاعب الرياضية باستخدام تقنيات الذكاء الاصطناعي والواقع المعزز.
+---
 
-يسهّل التطبيق التنقل داخل الملاعب من خلال خريطة تفاعلية ثلاثية الأبعاد، ويعتمد على تقنية YOLO لاكتشاف المواقع، وخوارزمية A* لحساب أقصر طريق إلى وجهتك داخل الملعب.
+# Wejhah – وجهة  
+**Smart Navigation & AR Experience for Sports Stadiums**
 
-كما يستخدم تقنيات SLAM وARCore/ARKit لتوفير تجربة واقع معزز دقيقة وسلسة، ويحتوي على شات بوت يساعد المشجعين في الإجابة على استفساراتهم.
+**Wejhah** is a smart mobile application that enhances the fan experience inside sports stadiums using Artificial Intelligence (AI) and Augmented Reality (AR) technologies.
 
-المميزات:
- • خريطة تفاعلية ثلاثية الأبعاد للملاعب.
- • اكتشاف المواقع باستخدام YOLO.
- • حساب المسارات الأقصر بخوارزمية A*.
- • تجربة واقع معزز باستخدام SLAM وARCore/ARKit.
- • شات بوت للمساعدة الذكية.
- 
- ملاحظة هامة بخصوص ملفات ZIP
-يرجى ملاحظة أن ملفات ZIP الموجودة في المشروع لا يمكن فتحها مباشرة في GitHub، حيث تحتوي على ملفات هامة. تأكد من تحميل الملفات لفتح هذه الملفات.
+The app allows fans to easily navigate within the stadium through a 3D interactive map. It uses advanced technologies such as YOLO for location detection and the A* algorithm to find the shortest paths to various destinations within the venue.
 
+For a seamless AR experience, Wejhah integrates SLAM along with ARCore (Android) and ARKit (iOS). Additionally, a built-in AI chatbot is available to assist fans by answering their questions during events.
 
+---
 
-Wejhah
+### 🔍 Features  
+- 🗺️ **3D Interactive Stadium Map**  
+- 📍 **Real-Time Location Detection** using **YOLO**  
+- 🧭 **Shortest Path Navigation** using the **A\*** algorithm  
+- 🕶️ **Augmented Reality Guidance** powered by **SLAM**, **ARCore/ARKit**  
+- 💬 **AI Chatbot** for smart fan assistance  
 
-Wejhah is a smart application designed to enhance the fan experience inside sports stadiums using AI and Augmented Reality technologies.
+---
 
-The app helps fans navigate stadiums through an interactive 3D map, leveraging YOLO for location detection and the A* algorithm to calculate the shortest paths.
+### ⚠️ Important Note About ZIP Files  
 
-It also incorporates SLAM and ARCore/ARKit to provide a smooth and accurate AR experience. A built-in chatbot is available to assist fans with any inquiries during their visit.
-
-Features:
- • Interactive 3D stadium map.
- • Location detection using YOLO.
- • Shortest path calculation via A* algorithm.
- • Augmented reality experience with SLAM and ARCore/ARKit.
- • AI-powered chatbot for assistance.
- 
-Important Note Regarding ZIP Files
-Please note that the ZIP files in the project cannot be opened directly in GitHub, as they contain important files. Ensure you download the files for opening these files.
-
+> The ZIP files included in this project **cannot be opened directly via GitHub**.  
+> They contain essential files required for the full experience.  
+> **Please make sure to download the ZIP files to access their contents properly.**
