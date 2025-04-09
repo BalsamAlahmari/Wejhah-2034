@@ -1,26 +1,38 @@
-
 # Wejhah – وجهة  
-**Smart Navigation & AR Experience for Sports Stadiums**
+**Reimagining the Fan Experience for Saudi Arabia’s World Cup 2034**
 
-**Wejhah** is a smart mobile application that enhances the fan experience inside sports stadiums using Artificial Intelligence (AI) and Augmented Reality (AR) technologies.
+**Wejhah** is a next-generation mobile application built to transform how fans experience sports events — starting with Saudi Arabia's journey toward hosting the **FIFA World Cup 2034**.
 
-The app allows fans to easily navigate within the stadium through a 3D interactive map. It uses advanced technologies such as YOLO for location detection and the A* algorithm to find the shortest paths to various destinations within the venue.
+Our mission is to make every stadium visit smarter, smoother, and more immersive using the latest in Artificial Intelligence and Augmented Reality. Whether it's finding your seat, locating the nearest facilities, or simply exploring the stadium, **Wejhah** guides you every step of the way.
 
-For a seamless AR experience, Wejhah integrates SLAM along with ARCore (Android) and ARKit (iOS). Additionally, a built-in AI chatbot is available to assist fans by answering their questions during events.
-
----
-
-### 🔍 Features  
-- 🗺️ **3D Interactive Stadium Map**  
-- 📍 **Real-Time Location Detection** using **YOLO**  
-- 🧭 **Shortest Path Navigation** using the **A\*** algorithm  
-- 🕶️ **Augmented Reality Guidance** powered by **SLAM**, **ARCore/ARKit**  
-- 💬 **AI Chatbot** for smart fan assistance  
+This project aligns with **Saudi Vision 2030** by enhancing tourism, digital transformation, and world-class event hosting.
 
 ---
 
-### ⚠️ Important Note About ZIP Files  
+### 🚀 Why Wejhah?  
+Imagine arriving at a crowded stadium and instantly knowing:
+- The **fastest route to your seat**
+- Where to grab snacks with **shortest waiting times**
+- How to navigate the venue with **AR-based directions**
+- And having a personal **AI assistant** in your pocket to answer any question  
 
-> The ZIP files included in this project **cannot be opened directly via GitHub**.  
-> They contain essential files required for the full experience.  
-> **Please make sure to download the ZIP files to access their contents properly.**
+All in real-time. All with a tap.
+
+---
+
+### 🌟 Core Features  
+- 🗺️ **Immersive 3D Stadium Maps**  
+- 📍 **Smart Location Awareness**  
+- 🧭 **Shortest Route Guidance**  
+- 🕶️ **Augmented Reality Navigation**  
+- 💬 **AI Chatbot Support**  
+
+*Behind the scenes, we use cutting-edge technologies like computer vision, pathfinding algorithms, and AR frameworks to make it all work — but you don’t need to worry about that. Just enjoy the game.*
+
+---
+
+### 📁 Important Notice About ZIP Files
+
+> ⚠️ **Note:** Some essential project files are stored in ZIP format and **cannot be previewed directly on GitHub**.  
+> To explore the full project and experience, **please download the ZIP files** to your local machine.
+
