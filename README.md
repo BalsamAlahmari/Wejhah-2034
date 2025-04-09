@@ -13,6 +13,10 @@ Wejhah - وجهة
  • حساب المسارات الأقصر بخوارزمية A*.
  • تجربة واقع معزز باستخدام SLAM وARCore/ARKit.
  • شات بوت للمساعدة الذكية.
+ 
+ ملاحظة هامة بخصوص ملفات ZIP
+يرجى ملاحظة أن ملفات ZIP الموجودة في المشروع لا يمكن فتحها مباشرة في GitHub، حيث تحتوي على ملفات هامة. تأكد من تحميل الملفات لفتح هذه الملفات.
+
 
 
 Wejhah
@@ -29,3 +33,7 @@ Features:
  • Shortest path calculation via A* algorithm.
  • Augmented reality experience with SLAM and ARCore/ARKit.
  • AI-powered chatbot for assistance.
+ 
+Important Note Regarding ZIP Files
+Please note that the ZIP files in the project cannot be opened directly in GitHub, as they contain important files. Ensure you download the files for opening these files.
+
