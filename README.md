@@ -1,6 +1,3 @@
-Perfect! Here's a polished version of your `README.md` content for GitHub, with a clean structure, general explanation, and **clear emphasis** on the ZIP files note:
-
----
 
 # Wejhah – وجهة  
 **Smart Navigation & AR Experience for Sports Stadiums**
